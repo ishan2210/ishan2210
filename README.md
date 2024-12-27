@@ -22,7 +22,7 @@ Scaling ideas to infinity with the power of the cloud.☁️💡
 - Terraform: Azure Infrastructure services Deployment using Infrastructure as a Code.
   
 
-## Tech Stack
+## Tools & Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=azure,aws,docker,terraform&perline=4)](https://skillicons.dev)
 
 
