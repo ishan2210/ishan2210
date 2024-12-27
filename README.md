@@ -37,8 +37,7 @@ in Azure governance, resource management, and cost optimization for secure cloud
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [Linkedein](https://www.linkedin.com/in/ishan-kansara2210/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
