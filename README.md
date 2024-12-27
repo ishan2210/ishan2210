@@ -1,6 +1,9 @@
 # Hi, I'm Ishan Kansara! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+Microsoft Cloud Engineer with 1 year of experience, specializing in Azure Cloud Infrastructure and
+Security solutions. Proficient in managing cloud resources, designing scalable environments, and implementing
+robust security measures within the Azure ecosystem to optimize performance and ensure data protection. Skilled
+in Azure governance, resource management, and cost optimization for secure cloud operations.
 
 ![ishan2210's Stats](https://github-readme-stats.vercel.app/api?username=ishan2210&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
