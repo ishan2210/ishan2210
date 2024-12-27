@@ -9,7 +9,7 @@ in Azure governance, resource management, and cost optimization for secure cloud
 
 ## 🚀 About Me
 
-Scaling ideas to infinity with the power of the cloud.🚀
+Scaling ideas to infinity with the power of the cloud.☁️💡
 
 - Skilled in designing Azure infrastructure solutions and performing in-depth
   assessments of resources, including the implementation of compute, network,
