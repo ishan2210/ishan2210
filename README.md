@@ -32,7 +32,7 @@ Scaling ideas to infinity with the power of the cloud.🚀
 - 🌟 Microsoft Certified: Azure Administrator Associate
 - 🌟 Microsoft Certified: Identity and Access Administrator Associate
 - 🌟 Microsoft Certified: Azure Virtual Desktop Speciality
-- 🌟AWS Certified: Cloud Practitioner
+- 🌟 AWS Certified: Cloud Practitioner
 
 
 
