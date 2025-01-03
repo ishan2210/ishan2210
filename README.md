@@ -23,7 +23,7 @@ Scaling ideas to infinity with the power of the cloud.☁️💡
   
 
 ## Tools & Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=azure,aws,docker,terraform&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,docker,terraform,jenkins&perline=4)](https://skillicons.dev)
 
 
  ## 🏆 Achievements
